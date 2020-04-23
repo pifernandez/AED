@@ -1,3 +1,7 @@
-# Algoritmos y Estructuras de datos K1053 2020
+# Algoritmos y Estructuras de datos 
 
-Repositorio de Pilar Fernández.
+• Curso: K1053
+• Año de cursada: 2020
+• Legajo: 1589258
+• Apellido: Fernández
+• Nombre: Pilar
