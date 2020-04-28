@@ -1,0 +1,2 @@
+Ingrese dos números
+La suma es: 8
