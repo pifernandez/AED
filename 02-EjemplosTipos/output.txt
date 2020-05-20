@@ -1,0 +1,9 @@
+Ejemplo del tipo de dato int: 10
+Ejemplo del tipo de dato long: 23984720938402
+Ejemplo del tipo de dato char: $100
+Ejemplo del tipo de dato unsigned: 15
+Ejemplo del tipo de dato signed: -15
+Ejemplo del tipo de dato double: 1.56
+Ejemplo del tipo de dato string: Algoritmos y Estructura de datos
+Ejemplo del tipo de dato bool false: 0
+Ejemplo del tipo de dato bool true: 1
