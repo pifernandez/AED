@@ -15,9 +15,9 @@ Color mezcla(Color, Color);
 
 
 int main(){
-    assert( mezcla({0, 25, 0}, {0, 50, 0}).green == 37 );
-    assert( mezcla({125, 0, 0}, {200, 0, 0}).red == 162 );
-    
+    assert( mezcla( {0,25,0}, {0,50,0}).green == 37 );
+    assert( mezcla( {125,0,0}, {200,0,0}).red == 162 );
+
     system("PAUSE()");
     return 0;
 }
